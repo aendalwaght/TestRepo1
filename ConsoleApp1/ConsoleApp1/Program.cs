@@ -13,6 +13,7 @@ namespace ConsoleApp1
             //Change1 in Dev1
             //Change2 made from GitHub
             //Change 3 from local master branch
+            //Change 4 from GitHub, simulating edit conflict
             //Change 5 from local master, simulating edit conflict
         }
     }
